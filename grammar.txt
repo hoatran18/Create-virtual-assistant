@@ -1,0 +1,16 @@
+What is your name
+Can I see your face
+Yes
+No
+What time is it 
+How is the weather today
+Open Google
+Open Youtube
+Close Google Chrome
+Shut down
+Faded
+Stop
+Open Skype
+Open Spotify Music
+Close Spotify
+Close Skype
